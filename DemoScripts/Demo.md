@@ -608,8 +608,9 @@ Distribute to your own: create a snippet-extension
 
 
 # Extensions
-- Docs View
 - Error Lens
+- Docs View
+- Git Graph
 
 
 
