@@ -53,6 +53,7 @@
 
 
 
+
 # Multiroot Workspace
 Why?
 - Manage multiple apps at the same time.
@@ -66,6 +67,7 @@ Interesting effects:
 - Show app dependencies
 - Symbols are copied to other apps
 - Navigate through code
+
 
 
 
@@ -166,6 +168,7 @@ Let's see some of my settings which I think are most useful
 
 
 
+
 # Interesting shortcuts:
 - Show shortcuts with Screencasting
   * Settings: Offset
@@ -180,6 +183,8 @@ Let's see some of my settings which I think are most useful
 - `ALT+Up/Down`: move lines Up/Down
 - `ALT+SHIFT+Up/Down`: Copy Up/Down
 - `CTRL+SHIFT+K` (delete line)
+
+
 
 
 
@@ -310,6 +315,7 @@ Let's see some of my settings which I think are most useful
 
 
 
+
 # Multi cursor editing
 - Add cursors with `ALT+Click`
 - `CTRL+ALT+Up/Down`: Add cursors above/below
@@ -320,6 +326,7 @@ Let's see some of my settings which I think are most useful
   * `CTRL+U`: Unto Cursor
   * Case Sensitive / Match whole word
 - `CTRL+F2`: Select all instances
+
 
 
 
@@ -438,6 +445,7 @@ Search Editors / Save
 
 
 
+
 # Tasks
 VSCode Tasks can automate any task for you.
 
@@ -494,9 +502,20 @@ VSCode Tasks can automate any task for you.
 
 
 
+
+
 # Snippets
-- Variables Snippets
-- Disable Snippets
+How? [Snippets in VSCode](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
+Variables Snippets
+- Upgrade Codeunits
+
+Disable Snippets
+
+Copy snippets & make your own
+- All snippets: c:\%UserProfile%\.vscode\extensions
+
+Distribute to your own: create a snippet-extension
 
 
 
@@ -531,10 +550,28 @@ VSCode Tasks can automate any task for you.
 
 
 
-# Git / DevOps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Git / DevOps
 - Commit history
 - Undo Last commit
-- Edit files on DevOps without VSCode and let the build figure it out!
+- Edit files on DevOps without VSCode and let the build figure it out! -->
+
 
 
 
@@ -624,6 +661,7 @@ VSCode Tasks can automate any task for you.
 
 
 
+
 # Resources
 - Stefan Maron's [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History)
 - Matt Bierner
@@ -633,6 +671,54 @@ VSCode Tasks can automate any task for you.
   * [9 Tips for developig reporst in AL](https://navinsights.net/2020/11/30/9-tips-for-developing-reports-in-al/)
   * [13 VS Code Settings to save you time in AL](https://navinsights.net/2020/12/07/13-vs-code-settings-to-save-you-time-in-al/)
 - My blog: [waldo.be](www.waldo.be)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
