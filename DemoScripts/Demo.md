@@ -1,3 +1,276 @@
+# Interesting shortcuts:
+- Show shortcuts with Screencasting
+- `Ctrl+R`: Quick Open Recent Workspace
+- `Ctrl+P`: Quick Open file
+  * Use "@" for symbol in file
+  * Use ":" for line number
+  * Right arrow: open multiple files at he same time
+- `Alt+Left/Right`: Navigate back and forward
+- `Ctrl+Enter`: New line below
+- `Ctrl+Shift+Enter`: New line Above
+- `Alt+Up/Down`: move lines Up/Down
+- `Alt+Shift+Up/Down`: Copy Up/Down
+- `Ctrl+Shift+K` (delete line)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# While coding:
+- `Ctrl+Shift+Space`: tooltip in code
+- `Ctrl+:`: Comment selected lines
+- `Alt+Shift+A`: toggle block comment
+- `Ctrl+Shift+;`: Breadcrumbs
+- Multiple editors
+  * drag and drop
+  * `Ctrl+PgUp/PgDown`: previous/next editor
+  * `Ctrl+Alt+Left/Right`:  Move editor left/right
+  * `Double click`: Keep open
+- `Ctrl+Shift+T`: open previously closed tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Multi cursor editing
+- Add cursors with `Alt+Click`
+- `Ctrl+Alt+Up/Down`: Add cursors above/below
+- `Ctrl+Alt+Shift+Arrows`: Box selection
+- `Ctrl+D`: Select next instance
+  * Shows in scrollbar
+  * `ESC/Click` to clear 
+  * `Ctrl+U`: Unto Cursor
+  * Case Sensitive / Match whole word
+- `Ctrl+F2`: Select all instances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Searching
+Local File Search
+- `Ctrl+F`: Find
+- `F3/Shift+F3`: Find Next/Previous
+
+Global Search
+- `Ctrl+Shift+F`: Global Search
+- Search Excludes
+- Collapse/Expand
+- `Up/Down`: Search History
+
+Regex Search/Replace
+
+Find/Replace preview
+
+Search Editors / Save 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MSDyn365BC.Code.History
 - Author: Stefan Maron
 
@@ -7,6 +280,7 @@
 
 - Where to find it?
     https://github.com/StefanMaron/MSDyn365BC.Code.History
+    blog: https://stefanmaron.wordpress.com/2021/01/13/msdyn365bc-code-history/
 
 - How to use it?
   * Every version = commit
@@ -18,6 +292,8 @@
   * Open workspaces 
   * What is changed in Belgian localization?
   * What is changed from one CU to the other
+
+- Don't forget: When Stefan updates his repo, all you need to do it "sync"
 
 
 
@@ -120,284 +396,6 @@ Interesting effects:
 - UI vs JSON
 - UI: @modified
 - Sync Settings
-
-Let's see some of my settings which I think are most useful
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Interesting shortcuts:
-- Show shortcuts with Screencasting
-  * Settings: Offset
-- `CTRL+R`: Quick Open Recent Workspace
-- `CTRL+P`: Quick Open file
-  * Use "@" for symbol in file
-  * Use ":" for line number
-  * Right arrow: open multiple files at he same time
-- `ALT+Left/Right`: Navigate back and forward
-- `CTRL+Enter`: New line below
-- `CTRL+Shift+Enter`: New line Above
-- `ALT+Up/Down`: move lines Up/Down
-- `ALT+SHIFT+Up/Down`: Copy Up/Down
-- `CTRL+SHIFT+K` (delete line)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# While coding:
-- `Ctrl+Shift+Space`: (tooltip in code)
-- `CTRL+:`: Comment selected lines
-- `ALT+SHIFT+A` (toggle block comment)
-- `CTRL+SHIFT+.`  focus Bread crumbs  (also search)
-- Multiple editors
-  * drag and drop
-  * `CTRL+PgUp/PgDown`: previous/next editor
-  * `CTRL+ALT+Left/Right`:  Move editor left/right
-  * `Double click`: Keep open
-- `CTRL+Shift+;`: Breadcrumbs
-- `CTRL+Shift+t`: open previously closed tab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Multi cursor editing
-- Add cursors with `ALT+Click`
-- `CTRL+ALT+Up/Down`: Add cursors above/below
-- `CTRL+ALT+Shift+Arrows`: Box selection
-- `CTRL+D`: Select next instance
-  * Shows in scrollbar
-  * `ESC/Click` to clear 
-  * `CTRL+U`: Unto Cursor
-  * Case Sensitive / Match whole word
-- `CTRL+F2`: Select all instances
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Searching
-Local File Search
-- `Ctrl+F`: Find
-- `F3/SHIFT+F3`: Find Next/Previous
-
-Global Search
-- `Ctrl+Shift+F`: Global Search
-- Search Excludes
-- Collapse/Expand
-
-Regex Search/Replace
-
-Find/Replace preview
-
-Search History
-
-Search Editors / Save 
-
-
 
 
 
