@@ -1,6 +1,10 @@
-# Interesting shortcuts:
+# VSCode Shortcuts
 - Show shortcuts with Screencasting
+- `Ctrl+B`: Toggle side bar
+- `Ctrl+J`: Toggle Pannel
 - `Ctrl+R`: Quick Open Recent Workspace
+  * Search by file name
+  * Search by folder name
 - `Ctrl+P`: Quick Open file
   * Use "@" for symbol in file
   * Use ":" for line number
@@ -9,141 +13,21 @@
 - `Ctrl+Enter`: New line below
 - `Ctrl+Shift+Enter`: New line Above
 - `Alt+Up/Down`: move lines Up/Down
-- `Alt+Shift+Up/Down`: Copy Up/Down
-- `Ctrl+Shift+K` (delete line)
+- `Alt+Shift+Up/Down`: Copy line(s) Up/Down
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# While coding:
+## While coding
 - `Ctrl+Shift+Space`: tooltip in code
-- `Ctrl+:`: Comment selected lines
-- `Alt+Shift+A`: toggle block comment
+- `Ctrl+:`: Toggle line comment
+- `Alt+Shift+A`: Toggle block comment
 - `Ctrl+Shift+;`: Breadcrumbs
 - Multiple editors
   * drag and drop
   * `Ctrl+PgUp/PgDown`: previous/next editor
   * `Ctrl+Alt+Left/Right`:  Move editor left/right
   * `Double click`: Keep open
-- `Ctrl+Shift+T`: open previously closed tab
+- `Ctrl+Shift+T`: Reopen closed editor
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Multi cursor editing
+## Multi cursor editing
 - Add cursors with `Alt+Click`
 - `Ctrl+Alt+Up/Down`: Add cursors above/below
 - `Ctrl+Alt+Shift+Arrows`: Box selection
@@ -271,64 +155,6 @@ Search Editors / Save
 
 
 
-# MSDyn365BC.Code.History
-- Author: Stefan Maron
-
-- Goal: See all history of business central in one glimpse
-  * All Versions
-  * All Localizations
-
-- Where to find it?
-    https://github.com/StefanMaron/MSDyn365BC.Code.History
-    blog: https://stefanmaron.wordpress.com/2021/01/13/msdyn365bc-code-history/
-
-- How to use it?
-  * Every version = commit
-  * Every localition = branch
-
-- What?
-  * Just browse through default code
-  * Test app code
-  * Open workspaces 
-  * What is changed in Belgian localization?
-  * What is changed from one CU to the other
-
-- Don't forget: When Stefan updates his repo, all you need to do it "sync"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Multiroot Workspace
 Why?
@@ -343,6 +169,9 @@ Interesting effects:
 - Show app dependencies
 - Symbols are copied to other apps
 - Navigate through code
+
+Use "Tasks" to automate any task for you.
+
 
 
 
@@ -444,8 +273,7 @@ Interesting effects:
 
 
 
-# Tasks
-VSCode Tasks can automate any task for you.
+
 
 
 
@@ -601,6 +429,64 @@ Distribute to your own: create a snippet-extension
 
 
 
+# MSDyn365BC.Code.History
+- Author: Stefan Maron
+
+- Goal: See all history of business central in one glimpse
+  * All Versions
+  * All Localizations
+
+- Where to find it?
+    https://github.com/StefanMaron/MSDyn365BC.Code.History
+    blog: https://stefanmaron.wordpress.com/2021/01/13/msdyn365bc-code-history/
+
+- How to use it?
+  * Every version = commit
+  * Every localition = branch
+
+- What?
+  * Just browse through default code
+  * Test app code
+  * Open workspaces 
+  * What is changed in Belgian localization?
+  * What is changed from one CU to the other
+
+- Don't forget: When Stefan updates his repo, all you need to do it "sync"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -608,7 +494,6 @@ Distribute to your own: create a snippet-extension
 # Extensions
 - Error Lens
 - Docs View
-- Git Graph
 
 
 
@@ -670,6 +555,7 @@ Distribute to your own: create a snippet-extension
   * [9 Tips for developig reporst in AL](https://navinsights.net/2020/11/30/9-tips-for-developing-reports-in-al/)
   * [13 VS Code Settings to save you time in AL](https://navinsights.net/2020/12/07/13-vs-code-settings-to-save-you-time-in-al/)
 - My blog: [waldo.be](www.waldo.be)
+- My Github: [waldo1001](https://github.com/waldo1001)
 
 
 
