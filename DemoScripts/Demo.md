@@ -70,6 +70,7 @@
   * `Ctrl+U`: Unto Cursor
   * Case Sensitive / Match whole word
 - `Ctrl+F2`: Select all instances
+- `F2`: Symbol rename
 
 
 
@@ -130,7 +131,6 @@ Local File Search
 
 Global Search
 - `Ctrl+Shift+F`: Global Search
-- Search Excludes
 - Collapse/Expand
 - `Up/Down`: Search History
 
@@ -139,6 +139,8 @@ Regex Search/Replace
 Find/Replace preview
 
 Search Editors / Save 
+
+Setting: Search Excludes
 
 
 
@@ -255,7 +257,6 @@ Use "Tasks" to automate any task for you.
 
 
 # Settings
-- UI vs JSON
 - UI: @modified
 - Sync Settings
 
@@ -366,15 +367,15 @@ Use "Tasks" to automate any task for you.
 # Snippets
 How? [Snippets in VSCode](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
-Variables Snippets
-- Upgrade Codeunits
-
 Disable Snippets
 
 Copy snippets & make your own
 - All snippets: c:\%UserProfile%\.vscode\extensions
 
 Distribute to your own: create a snippet-extension
+
+Variables Snippets
+
 
 
 
@@ -430,6 +431,60 @@ Distribute to your own: create a snippet-extension
 - Commit history
 - Undo Last commit
 - Edit files on DevOps without VSCode and let the build figure it out! -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Extensions
+- Error Lens
+- Docs View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -524,72 +579,22 @@ Distribute to your own: create a snippet-extension
 
 
 
-# Extensions
-- Error Lens
-- Docs View
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Resources
 - Stefan Maron's [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History)
+
 - Matt Bierner
   * Twitter: @mattbierner
   * Youtube: https://www.youtube.com/c/Code2020/videos
+
 - Blog Waldemar Brakowski: 
   * [9 Tips for developig reporst in AL](https://navinsights.net/2020/11/30/9-tips-for-developing-reports-in-al/)
   * [13 VS Code Settings to save you time in AL](https://navinsights.net/2020/12/07/13-vs-code-settings-to-save-you-time-in-al/)
-- My blog: [waldo.be](www.waldo.be)
-- My Github: [waldo1001](https://github.com/waldo1001)
 
+- waldo 
+  * blog: [waldo.be](www.waldo.be)
+  * Github: [waldo1001](https://github.com/waldo1001)
+  * Twitter: @waldo1001
 
 
 
