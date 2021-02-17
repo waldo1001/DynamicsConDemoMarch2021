@@ -1,3 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # VSCode Shortcuts
 - Show shortcuts with Screencasting
 - `Ctrl+B`: Toggle side bar
