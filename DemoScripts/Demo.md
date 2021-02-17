@@ -31,17 +31,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # VSCode Shortcuts
 - Show shortcuts with Screencasting
 - `Ctrl+B`: Toggle side bar
 - `Ctrl+J`: Toggle Pannel
 - `Ctrl+R`: Quick Open Recent Workspace
-  * Search by file name
+  * Search by file bname
   * Search by folder name
 - `Ctrl+P`: Quick Open file
   * Use "@" for symbol in file
-  * Use ":" for line number
-  * Right arrow: open multiple files at he same time
+  * Right arrow: open files 
 - `Alt+Left/Right`: Navigate back and forward
 - `Ctrl+Enter`: New line below
 - `Ctrl+Shift+Enter`: New line Above
@@ -55,7 +67,7 @@
 - `Ctrl+Shift+;`: Breadcrumbs
 - Multiple editors
   * drag and drop
-  * `Ctrl+PgUp/PgDown`: previous/next editor
+  * `Ctrl+PgUp/PgDown`: previous/next editor 
   * `Ctrl+Alt+Left/Right`:  Move editor left/right
   * `Double click`: Keep open
 - `Ctrl+Shift+T`: Reopen closed editor
@@ -134,13 +146,14 @@ Global Search
 - Collapse/Expand
 - `Up/Down`: Search History
 
+Setting: Search Excludes
+
 Regex Search/Replace
 
 Find/Replace preview
 
 Search Editors / Save 
 
-Setting: Search Excludes
 
 
 
@@ -370,11 +383,10 @@ How? [Snippets in VSCode](https://code.visualstudio.com/docs/editor/userdefineds
 Disable Snippets
 
 Copy snippets & make your own
-- All snippets: c:\%UserProfile%\.vscode\extensions
+- All snippets: c:\%UserProfile%\.vscode\extensions\<extension>\snippets
 
 Distribute to your own: create a snippet-extension
 
-Variables Snippets
 
 
 
@@ -424,13 +436,6 @@ Variables Snippets
 
 
 
-
-
-
-<!-- # Git / DevOps
-- Commit history
-- Undo Last commit
-- Edit files on DevOps without VSCode and let the build figure it out! -->
 
 
 
@@ -534,8 +539,8 @@ Variables Snippets
 
 - What?
   * Just browse through default code
-  * Test app code
-  * Open workspaces 
+  * Find all (test) apps code
+  * orkspaces 
   * What is changed in Belgian localization?
   * What is changed from one CU to the other
 
@@ -595,8 +600,6 @@ Variables Snippets
   * blog: [waldo.be](www.waldo.be)
   * Github: [waldo1001](https://github.com/waldo1001)
   * Twitter: @waldo1001
-
-
 
 
 
