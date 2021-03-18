@@ -1,0 +1,26 @@
+{
+  "id": "6ea72e16-9657-4ac8-9a4c-c440775f2fb1",
+  "name": "DynamicsCon Demo",
+  "publisher": "waldo",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Demo.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

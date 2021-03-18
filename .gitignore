@@ -1,3 +1,4 @@
 *.app
-*.json
-*.al
+rad.json
+launch.json
+cache*.json
